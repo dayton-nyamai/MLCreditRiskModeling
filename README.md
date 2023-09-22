@@ -5,6 +5,10 @@ Welcome to the MLCreditRiskModeling repository! This project aims  to develop a 
 ## Features
 
 - Credit risk modeling using state-of-the-art machine learning techniques
+  -  Logistic Regression
+  -  Support Vector Machines
+  -  Random Forest
+  -  Deep Neural Network  
 - Data preprocessing and feature engineering for credit risk analysis
 - Model training, evaluation, and validation
 - Predictive analytics for credit risk assessment
